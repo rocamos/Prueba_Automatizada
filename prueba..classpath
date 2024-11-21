@@ -1,0 +1,16 @@
+<classpath>
+    <!-- Ruta para el código fuente -->
+    <classpathentry kind="src" path="src/main/java"/>
+    
+    <!-- Ruta para las pruebas -->
+    <classpathentry kind="src" path="src/test/java"/>
+    
+    <!-- Entorno de ejecución JRE -->
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+    
+    <!-- Dependencias gestionadas por Maven -->
+    <classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+    
+    <!-- Directorio de salida para los binarios compilados -->
+    <classpathentry kind="output" path="target/classes"/>
+</classpath>
